@@ -1,0 +1,22 @@
+{
+  "name": "dms-client-library",
+  "version": "1.2.0",
+  "description": "dms client using for dms system",
+  "main": "dmsclient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.icnslab.net/lsw0833/DMS-Client-Library.git"
+  },
+  "keywords": [
+    "mqtt"
+  ],
+  "author": "sangwonlee93",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.15.3",
+    "request": "^2.83.0"
+  }
+}
